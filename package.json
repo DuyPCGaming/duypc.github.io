@@ -1,5 +1,6 @@
-{
-  "name": "duypc.github.io",
+{ 
+  "homeppage" : "http://duypc.github.io/duypc",
+  "name": "duypc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
